@@ -1,0 +1,7 @@
+.env
+*.csv
+!delisting/kr_universe2.csv
+delisting/_dart_corp.csv
+BUN_SEOK/
+__pycache__/
+.ipynb_checkpoints/

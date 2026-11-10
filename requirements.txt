@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+shap
+matplotlib
+seaborn
+ipywidgets
+notebook
+pdfplumber
+reportlab
+requests
+finance-datareader
